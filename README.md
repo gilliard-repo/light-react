@@ -1,4 +1,4 @@
-![image info](https://raw.githubusercontent.com/gilliard-repo/light-react/refs/heads/main/gihub-cover.png)
+![image info](https://raw.githubusercontent.com/gilliard-repo/light-react/refs/heads/main/github-cover-project.png)
 
 # Welcome to my React Light Version!
 
